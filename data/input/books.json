@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Learning Spark, Second Edition",
+        "price": 70,
+        "author": "Jules Damji",
+        "rate": 4.5
+    },
+    {
+        "title": "Spark: The Definitive Guide: Big Data Processing Made Simple",
+        "price": 70,
+        "author": "Bill Chambers",
+        "rate": 4.5
+    },
+    {
+        "title": "Spark in Action, Second Edition",
+        "price": 60,
+        "author": "Jean-Georges Perrin",
+        "rate": 3.5
+    }
+]
